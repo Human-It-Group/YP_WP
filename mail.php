@@ -31,7 +31,7 @@ $mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, 
 $mail->Port = 465; // TCP port to connect to / 
 $mail->addAttachment($_FILES['user_file']['tmp_name'], $_FILES['user_file']['name']);
 $mail->setFrom('tkram00@mail.ru'); 
-$mail->addAddress('taras.kram@humanit.group');    
+$mail->addAddress('kontakt@youngprofessionals.pl');    
 //$mail->addAddress('ellen@example.com');               // Name is optional
 //$mail->addReplyTo('info@example.com', 'Information');
 //$mail->addCC('cc@example.com');
