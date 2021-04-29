@@ -4,7 +4,7 @@ function showDiv() {
   
   function hideDiv(){
     document.getElementById('block_form_page_1').style.display = "none";
-    document.getElementById('block_form_page_2').style.display = "grid";
+    document.getElementById('block_form_page_2').style.display = "block";
 
   }
   
