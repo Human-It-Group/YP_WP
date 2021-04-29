@@ -18,7 +18,7 @@ Template Name: Мой шаблон страницы
 </head>
     <body>
         <div class="header">
-            <a href="index.html" type = "submit">
+            <a href="index.php" type = "submit">
                 <div class="logo_sign_in">
                     <img src="images/logo/YP_kolor.svg" alt="logo">
                 </div>
