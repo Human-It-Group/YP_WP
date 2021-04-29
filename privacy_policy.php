@@ -10,12 +10,12 @@
       <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&display=swap" rel="stylesheet">
   </head>
   <body>
-    <a href="index.html" type = "submit">
+    <a href="https://www.youngprofessionals.pl" type = "submit">
         <div class="logo_main"><img src="images/logo/YP_kolor.svg" alt="logo"></div>
     </a>
     <div class="thanku_text">
       <h2>
-        OŚWIADCZENIE O ZGODZIE NA PRZETWARZANIE DANYCH</br> oraz <strong>KLAUZELE - obowiązki informacyjne Human IT</strong>
+        OŚWIADCZENIE O ZGODZIE NA PRZETWARZANIE DANYCH</br> oraz <strong>KLAUZELE - obowiązki informacyjne Human IT</strong>
       </h2>
     </div>
     <div class="information">
@@ -28,7 +28,7 @@
     </p>
     </div>
     <div class="btn_thanku">
-      <a href="index.php" type = "submit">STRONA GLÓWNA</a>
+      <a href="https://www.youngprofessionals.pl" type = "submit">STRONA GLÓWNA</a>
     </div>
   </body>
 </html>
