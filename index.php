@@ -186,18 +186,4 @@
             <a href="<?php echo get_stylesheet_directory_uri(); ?>/contact.php">ZGŁOŚ SIĘ!</a>
         </div>
     </div>
-        <div class="cookie-container">
-        <div class = cookies_block>
-             <p>
-            Strona wykorzystuje pliki cookie. Jeśli nie wyrażasz zgody, ustawienia dotyczące plików cookies możesz zmienić w swojej przeglądarce. 
-            Pełna treść:
-                <a href="<?php echo get_stylesheet_directory_uri(); ?>/cookies.php">Polityka cookies</a>
-            </p>
-            <div class="btn_cookies">
-                <button class="cookie-btn">
-                    Rozumiem
-                </button>
-            </div>
-        </div>
-    </div>
 <?php get_footer(); ?>
