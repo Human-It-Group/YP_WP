@@ -10,7 +10,7 @@
       <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&display=swap" rel="stylesheet">
   </head>
   <body>
-    <a href="index.php">
+    <a href="https://www.youngprofessionals.pl/">
         <div class="logo_main"><img src="images/logo/YP_kolor.svg" alt="logo"></div>
     </a>
     <div class="thanku_text">
@@ -34,7 +34,7 @@
       </p>
     </div>
     <div class="btn_thanku">
-      <a href="index.php">STRONA GLÓWNA</a>
+      <a href="https://www.youngprofessionals.pl/">STRONA GLÓWNA</a>
     </div>
   </body>
 </html>
