@@ -18,7 +18,7 @@ Template Name: Мой шаблон страницы
 </head>
     <body>
         <div class="header">
-            <a href="<?php echo get_stylesheet_directory_uri(); ?>/index.php">
+            <a href="/index.php">
                 <div class="logo_sign_in">
                     <img src="images/logo/YP_kolor.svg" alt="logo">
                 </div>
