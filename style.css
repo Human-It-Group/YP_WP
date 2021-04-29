@@ -199,7 +199,12 @@ body {
     height: 480px;
   }
 }
-
+@media only screen and (min-width: 1200px) {
+  .form_all{
+    display: flex;
+    width: 1200px;
+  }
+}
 .block_comein {
   height: 600px;
   max-width: 360px;
@@ -1320,6 +1325,7 @@ i {
 
 @media only screen and (min-width: 1200px) {
   .form_part_right {
+    margin-left: auto;
     width: 500px;
     float: right;
   }
