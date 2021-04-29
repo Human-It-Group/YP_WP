@@ -15,7 +15,7 @@
 
 <header>
     <div class="header_main">
-        <a href="index.html" type = "submit">
+        <a href="index.php" type = "submit">
         <div class="logo_main"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/logo/YP_kolor.svg" ></div>
 
         
