@@ -56,6 +56,7 @@ Template Name: Мой шаблон страницы
                         </div>
                     </div>
                 </div>
+                <div class = "form_all"
                 <div class="form_part_left">
                     <div class="name_form_first">
                         <h3>
@@ -136,6 +137,7 @@ Template Name: Мой шаблон страницы
                 </div>
                 <div class="btn_next">
                     <a onclick = "hideDiv()">DALEJ</a>
+                </div>
                 </div>
                 </div>
 
