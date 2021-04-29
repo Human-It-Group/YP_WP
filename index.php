@@ -188,7 +188,7 @@
     </div>
         <div class="cookie-container">
         <div class = cookies_block>
-                <p>
+             <p>
             Strona wykorzystuje pliki cookie. Jeśli nie wyrażasz zgody, ustawienia dotyczące plików cookies możesz zmienić w swojej przeglądarce. 
             Pełna treść:
                 <a href="<?php echo get_stylesheet_directory_uri(); ?>/cookies.php">Polityka cookies</a>
