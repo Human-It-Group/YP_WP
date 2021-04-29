@@ -23,7 +23,7 @@
             </p>
         </div>
         <div class="btn_login">
-            <a href="<?php echo get_stylesheet_directory_uri(); ?> /contact.php">ZGŁOŚ SIĘ!</a>
+            <a href="<?php echo get_stylesheet_directory_uri(); ?>/contact.php">ZGŁOŚ SIĘ!</a>
         </div>
     </div>
 
@@ -191,7 +191,7 @@
              <p>
                 Strona wykorzystuje pliki cookie. Jeśli nie wyrażasz zgody, ustawienia dotyczące plików cookies możesz zmienić w swojej przeglądarce. 
                 Pełna treść:
-                    <a href="<?php echo get_stylesheet_directory_uri(); ?> /contact.php">Polityka cookies</a>
+                    <a href="<?php echo get_stylesheet_directory_uri(); ?>/cookies.php">Polityka cookies</a>
                 </p>
              <div class="btn_cookies">
                  <button class="cookie-btn">
