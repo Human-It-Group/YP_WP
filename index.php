@@ -23,7 +23,7 @@
             </p>
         </div>
         <div class="btn_login">
-            <a href="<?php echo get_stylesheet_directory_uri(); ?> contact.php">ZGŁOŚ SIĘ!</a>
+            <a href="<?php echo get_stylesheet_directory_uri(); ?> /contact.php">ZGŁOŚ SIĘ!</a>
         </div>
     </div>
 
