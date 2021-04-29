@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>YoungProfessionals</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href= "style.css">
+    <link href="<?php echo get_template_directory_uri(); ?>/style.css" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.gstatic.com"> 
     <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&display=swap" rel="stylesheet">
     <?php wp_head(); ?>
