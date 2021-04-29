@@ -201,8 +201,8 @@ body {
 }
 @media only screen and (min-width: 1200px) {
   .form_all{
-    display: inline;
-    width: 1200px;
+    display: inline-grid;
+    width: unset;
   }
 }
 .block_comein {
