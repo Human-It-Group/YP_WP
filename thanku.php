@@ -19,7 +19,7 @@
       </h2>
     </div>
     <div class="btn_thanku">
-      <a href="index.php" type = "submit">STRONA GLÓWNA</a>
+      <a href="https://www.youngprofessionals.pl" type = "submit">STRONA GLÓWNA</a>
     </div>
   </body>
 </html>
