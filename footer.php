@@ -11,7 +11,7 @@
                 <a href="https://www.instagram.com/human_career/"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/logo/instagram.svg" alt="logo"></a>
             </div>
             <div class="social_image">
-                <a href="https://www.linkedin.com/company/human-career/"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/logo/facebook.svg" alt="logo"></a>
+                <a href="https://www.facebook.com/humancareer/"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/logo/facebook.svg" alt="logo"></a>
             </div>
         </div>
         <div class="footer_contact">
