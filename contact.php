@@ -211,7 +211,7 @@ Template Name: Мой шаблон страницы
                     <div class="btn_send">
                         <div class="akceptetion">
                             <input type="checkbox" class = "check_b" name ="agree">
-                            <span class="che"> Zgoda na przetwarzanie <a href="privacy_policy.php">danych osobowych</a></span>
+                            <span class="che"> Zgoda na przetwarzanie <a href="privacy_policy.php"><em>danych osobowych</em></a></span>
                         </div>
                         <button type = "submit" class= "btn btn-primary">
                             <span class="Outsourcing1">WYŚLIJ</span>
