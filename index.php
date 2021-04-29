@@ -191,7 +191,7 @@
              <p>
                 Strona wykorzystuje pliki cookie. Jeśli nie wyrażasz zgody, ustawienia dotyczące plików cookies możesz zmienić w swojej przeglądarce. 
                 Pełna treść:
-                    <a href="/cookies.php">Polityka cookies</a>
+                    <a href="cookies.php">Polityka cookies</a>
                 </p>
              <div class="btn_cookies">
                  <button class="cookie-btn">
