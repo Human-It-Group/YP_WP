@@ -45,6 +45,11 @@ body {
     margin-left: 0px;
   }
 }
+@media only screen and (min-width: 1800px) {
+  .header {
+    margin-right: 316px;
+  }
+}
 
 .header_main {
   height: 100px;
@@ -471,6 +476,12 @@ body {
 @media only screen and (min-width: 1200px) {
   .logo_sign_in {
     margin: 104px 40px 0px 104px;
+    width: 350px;
+  }
+}
+@media only screen and (min-width: 1800px) {
+  .logo_sign_in {
+    margin: 104px 200px 0px 400px;
     width: 350px;
   }
 }
