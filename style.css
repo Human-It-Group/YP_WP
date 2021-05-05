@@ -646,9 +646,18 @@ i {
 }
 
 .btn_login {
+  width: 215px;
+  max-width: 215px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 70px;
+}
+@media only screen and (min-width: 1200px) {
+.btn_login {
   margin-left: 74px;
   margin-right: 74px;
   margin-top: 70px;
+}
 }
 
 .btn_login a {
@@ -1276,6 +1285,7 @@ i {
 }
 
 .btn_login_ground {
+  width: 300px;
   margin-left: 74px;
   margin-right: 74px;
   margin-top: 40px;
@@ -2706,5 +2716,4 @@ label, a {
   -webkit-transition: opacity 0.2s ease-out;
   transition: opacity 0.2s ease-out;
 }
-
 /*# sourceMappingURL=style.css.map */
